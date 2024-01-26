@@ -5,7 +5,7 @@ Repository for storing and sharing files related to my R Capstone Project report
 ## Description
 This repository contains files related to my R Capstone Projects, including the final report document, and R scripts.
 ## Contents
-`Capsone_Bellabeat.pdf`: Final report document summarizing the project findings.
+`Capstone_Bellabeat.pdf`: Final report document summarizing the project findings.
 ## Installation
 To run the project locally, you'll need R installed on your machine.
 ## Usage
